@@ -1,6 +1,7 @@
 # Movie Genre
 Study providing some insights on the influence of genres (Comedy, Action...) on the film 
 revenues.
+The project is available [HERE](1_scripts/2_descriptiveStats.ipynb)
 
 ## Table of contents
 * [1 Introduction](#1_introduction)
