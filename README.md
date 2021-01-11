@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Genre
 Study providing some insights on the influence of genres (Comedy, Action...) on the film 
 revenues.
@@ -103,3 +104,7 @@ Now you can enjoy the study, and make your own on the period of your choice.
 Note that the observation in my notebooks are only valid on the period of time that I 
 initially took in the script [Preprocessing notebook](1_scripts/1_preprocessing.ipynb).
 ![range_period](./3_images/3_range_period.png)
+=======
+# MostValuableFilmGenre
+Study providing some insights on the influence of genres (Comedy, Action...) on the film revenues.
+>>>>>>> 82be79a3b6fdb6292ed581072dda1d9c5fdff754
